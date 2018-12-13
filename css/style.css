@@ -266,7 +266,8 @@ section.color {
     height: 20px
 }
 .owl-page > span {
-    background: #fff;
+    
+    background: black;
     display: block;
     height: 10px;
     margin: 0 15px;
@@ -946,7 +947,7 @@ section.color {
 }
 #testimonials {
     text-align: center;
-    
+
     background-size: cover;
     z-index: 0;
     position: relative;
