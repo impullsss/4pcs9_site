@@ -53,5 +53,6 @@ git commit -m 'Описание коммита'
 git push
 ```
 
-Создать pull-request на вливание вашей ветки с вашими коммитами в ветку master`
+Создать pull-request на вливание вашей ветки с вашими коммитами в ветку `master`
+
 https://help.github.com/articles/using-pull-requests
