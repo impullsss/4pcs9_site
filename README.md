@@ -19,7 +19,7 @@ git config --global user.email johndoe@example.com
 ### начало работы с проектом
 ```
 cd /c/путь/к/папке/с/проектами
-git clone https://github.com/impullsss/4pcs9_site.git
+git clone git@github.com:impullsss/4pcs9_site.git
 cd 4pcs9_site
 ```
 
