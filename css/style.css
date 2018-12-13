@@ -255,6 +255,9 @@ section.color {
     text-align: center;
     margin-bottom: 40px
 }
+
+
+
 .owl-pagination {
     text-align: center
 }
@@ -943,7 +946,7 @@ section.color {
 }
 #testimonials {
     text-align: center;
-    background: url(../images/bg/testimonial.jpg)fixed;
+    
     background-size: cover;
     z-index: 0;
     position: relative;
@@ -952,7 +955,7 @@ section.color {
 #testimonials p {
     font-weight: 500;
     font-size: 14px;
-    color: #fff;
+    color: black;
     margin-bottom: 20px
 }
 #testimonials .img-circle {
@@ -1103,7 +1106,7 @@ section.color {
     opacity: 1
 }
 #contact {
-    background: #06035c;
+
     padding-bottom: 0;
     position: relative
 }
