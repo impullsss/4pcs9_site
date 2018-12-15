@@ -29,6 +29,21 @@ p,
     line-height: 25px;
     -webkit-font-smoothing: antialiased !important
 }
+.icon{
+    height: 100px;
+    width: 100px;
+    position:absolute; 
+    top:-120px;
+     border-radius: 100px; /* Радиус скругления */
+    border: 3px solid blue; /* Параметры рамки */
+    box-shadow: 0 0 7px #666;
+   transition: 1s; /* Время эффекта */
+}
+.icon:hover {
+    transform: scale(2.2); /* Увеличиваем масштаб */
+   }
+   
+
 section.color {
     background: #F2F2F2
 }
@@ -435,7 +450,7 @@ section.color {
 }
 .icon-title {
     display: inline-block;
-    margin-left: 29px
+    margin-left: 29px;
 }
 #features .title {
     margin-bottom: 95px
