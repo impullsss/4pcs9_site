@@ -1348,3 +1348,21 @@ section.color {
 	-o-box-shadow:0px 0px 7px #DA5C53 inset;
 	-webkit-box-shadow:0px 0px 7px #DA5C53 inset;
 }
+.advantages__container{
+	display: flex;
+	justify-content: center;
+
+}
+.advantages{
+	padding-top: 1px;
+	padding-bottom: 70px;
+	width: 90%;
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+	flex-wrap: wrap;
+}
+.advantages__item{
+	width: 10%;
+
+}
