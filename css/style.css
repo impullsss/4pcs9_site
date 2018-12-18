@@ -31,7 +31,7 @@ p,
 .icon{
     height: 100px;
     width: 100px;
-    position:absolute; 
+
     top:-120px;
      border-radius: 100px; /* Радиус скругления */
     border: 3px solid blue; /* Параметры рамки */
@@ -41,7 +41,7 @@ p,
 .icon:hover {
     transform: scale(2.2); /* Увеличиваем масштаб */
    }
-   
+
 
 section.color {
     background: #F2F2F2
@@ -229,7 +229,7 @@ section.color {
 }
 .navbar-toggle {
     position: absolute;
-    top: 15px;
+    top: 45px;
     right: 0;
     border-radius: 0;
     -moz-border-radius: 0;
